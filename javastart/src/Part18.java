@@ -1,6 +1,6 @@
 class Calculator {
 
-    //METHOD OVERLOADING : Methods with the same name but different parameters but with the same class 
+    //METHOD OVERLOADING : Methods with the same name but different parameters but with the same class eg Calculator class and the add method
     public int add(int n1, int n2) {
         return n1 + n2;
     }
